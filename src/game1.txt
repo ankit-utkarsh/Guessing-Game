@@ -1,0 +1,20 @@
+
+200 Are you thinking of an animal?
+180 Is it a mammal?
+160 Is it a Herbivorous?
+140 Is it Cow?
+190 Is it Lion?
+300 Is it a bird?
+290 Can it fly?
+285 Is it a Eagle?
+295 Is it a penguin?
+220 Is it fish?
+210 Is it a Shark?
+230 Is it Frog?
+400 Is it a plant?
+390 Is it Non-vascular?
+380 Is it a pincuchion Moss?
+415 Is it a Ferns?
+410 Is it a Fungi?
+405 Is it a Sac Fungi?
+420 Is it a Wakame Algae?
